@@ -1,9 +1,7 @@
 import engine
 
-
 def main():
-    engine.start()
-
+    print("engine.py")
 
 
 main()
